@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Pitagoras
+comment1.params=
+comment1.target=Pitagoras()
+comment2.params=oposto\ adjacente
+comment2.target=Pitagoras(double,\ double)
+comment3.params=
+comment3.target=double\ calcular()
+comment4.params=
+comment4.target=java.lang.String\ interpretar()
+numComments=5

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PitagorasView
+comment0.text=\r\n\ Interface\ Gr\u00E1fica\ (GUI)\ da\ Calculadora\ de\ Pitagoras\r\n\ \r\n\ @author\ marceloakira\r\n\ @version\ 0.01\r\n
+comment1.params=
+comment1.target=PitagorasView()
+comment2.params=controller
+comment2.target=void\ setController(PitagorasController)
+comment3.params=primaryStage
+comment3.target=void\ start(javafx.stage.Stage)
+numComments=4
